@@ -11,8 +11,8 @@ const Hero: React.FC = () => {
   const handleDownloadResume = () => {
     // Create an anchor element and set its attributes
     const anchor = document.createElement('a');
-    anchor.href = '/resume.pdf'; // Path to resume file in public folder
-    anchor.download = 'Dhrumil_Resume.pdf'; // Set the download filename
+    anchor.href = '/dhrumil_resume.docx'; // Path to resume file in public folder
+    anchor.download = 'dhrumil_resume.docx'; // Set the download filename
     anchor.target = '_blank'; // Open in a new tab (fallback for browsers that don't support download attribute)
     
     // Append to the document, click it, and remove it
@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
             <div className="relative group">
               <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-2xl transform transition-transform duration-500 group-hover:scale-105">
                 <img 
-                  src="dhrumil pfp.jpg" 
+                  src="/dhrumil-pfp.jpg" 
                   alt={personalInfo.name}
                   className="w-full h-full object-cover"
                 />
