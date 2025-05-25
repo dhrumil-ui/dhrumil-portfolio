@@ -131,7 +131,7 @@ export const projects = [
     title: "Mediaid",
     image: "https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     description: "A comprehensive healthcare application that uses machine learning and chatbot technology to provide personalized medical assistance and information to users.•	Built a responsive AI healthcare assistant web app using TypeScript, React, and Tailwind CSS, enabling users to input symptoms and receive specialist recommendations with ~85% accuracy, increasing diagnostic guidance efficiency by 60%.•	Integrated AI-based symptom classification using NLP techniques to interpret user inputs and match them to relevant medical specialties, reducing false matches by 23% through iterative model refinement and real-world test cases.•	Implemented secure user authentication, structured frontend architecture with TypeScript typings, and deployed the app via Netlify (frontend) and Render (backend), achieving 99.8% uptime .",
-    technologies: ["ML", "chatbot", "typescript", "React Native"],
+    technologies: ["ML", "chatbot", "typescript", "React Native","Node.js"],
     github: "https://github.com/dhrumil-ui/Ayurmedai",
     demo: null
   }
