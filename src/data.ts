@@ -120,7 +120,7 @@ export const projects = [
     demo: null
   },
   {
-    title: "Break-Bite app",
+    title: "Break-Bite ",
     image: "https://miro.medium.com/max/1984/0*7fJU4VtlK5HoQvzy.png",
     description: "•	Engineered a mobile-first application utilizing the Flutter framework to develop a cross-platform canteen ordering system, leveraging Dart language features for UI rendering and state management.•	Designed a RESTful API to handle asynchronous communication between the mobile application and the backend, facilitating data exchange for menu display, order placement, and real-time updates and integrated Razorpay API.",
     technologies: ["React", "Node.js", "DART", "Restfull API", "Flutter"],
