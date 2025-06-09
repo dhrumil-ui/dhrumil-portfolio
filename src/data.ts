@@ -115,7 +115,7 @@ export const projects = [
     title: "SQL Injection Detection using Reinforcement Learning",
     image: "https://www.thesslstore.com/blog/wp-content/uploads/2020/04/sql-injection-attack.jpg",
     description: "•	Developed a reinforcement learning model using Q-learning and a hybrid CNN-SVM architecture to detect SQL injection attacks, enhancing real-time threat detection and system security. 	Designed and conducted experiments using benchmark datasets to evaluate the performance of the RL-based approach, validating the model's accuracy and resilience in detecting SQL injection attacks.Published my research paper in ANVESAK journal.",
-    technologies: ["Python", "TensorFlow", "Flask", "RL"],
+    technologies: ["Python", "TensorFlow", "Flask", "RL","CNN"],
     github: "https://github.com/dhrumil-ui/sqli_detection_RL",
     demo: null
   },
@@ -128,7 +128,7 @@ export const projects = [
     demo: null
   },
   {
-    title: "Mediaid",
+    title: "Ayurmedai",
     image: "https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     description: "A comprehensive healthcare application that uses machine learning and chatbot technology to provide personalized medical assistance and information to users.•	Built a responsive AI healthcare assistant web app using TypeScript, React, and Tailwind CSS, enabling users to input symptoms and receive specialist recommendations with ~85% accuracy, increasing diagnostic guidance efficiency by 60%.•	Integrated AI-based symptom classification using NLP techniques to interpret user inputs and match them to relevant medical specialties, reducing false matches by 23% through iterative model refinement and real-world test cases.•	Implemented secure user authentication, structured frontend architecture with TypeScript typings, and deployed the app via Netlify (frontend) and Render (backend), achieving 99.8% uptime .",
     technologies: ["ML", "chatbot", "typescript", "React Native","Node.js"],
