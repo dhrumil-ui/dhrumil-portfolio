@@ -112,7 +112,7 @@ export const skills = [
 
 export const projects = [
   {
-    title: "SQL Injection Detection using Reinforcement Learning",
+    title: "SQL Injection Detection using RL",
     image: "https://www.thesslstore.com/blog/wp-content/uploads/2020/04/sql-injection-attack.jpg",
     description: "•	Developed a reinforcement learning model using Q-learning and a hybrid CNN-SVM architecture to detect SQL injection attacks, enhancing real-time threat detection and system security. 	Designed and conducted experiments using benchmark datasets to evaluate the performance of the RL-based approach, validating the model's accuracy and resilience in detecting SQL injection attacks.Published my research paper in ANVESAK journal.",
     technologies: ["Python", "TensorFlow", "Flask", "RL","CNN"],
